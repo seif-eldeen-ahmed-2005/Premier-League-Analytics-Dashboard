@@ -20,17 +20,16 @@ This project analyzes match outcomes, tactical formations, team performances, an
 ## 📈 Dashboard Screenshots
 
 ### 🔹 Overview & General Statistics
-![Overview Dashboard](Images/Overview.jpg)
+![Overview Dashboard](Images/Overview)
 
 ### 🔹 Attacking Analysis
-![Attacking Analysis](Images/Attacking_Analysis.jpg)
+![Attacking Analysis](Images/Attacking%20Analysis)
 
 ### 🔹 Defensive Analysis
-![Defensive Analysis](Images/Defensive_Analysis.jpg)
+![Defensive Analysis](Images/Defensive%20Analysis)
 
 ### 🔹 Team Performance Profile
-![Performance Profile](Images/Team_Performance_Profile.jpg)
-
+![Performance Profile](Images/Team%20Performance%20Profile)
 ---
 
 ## 🛠️ Tools & Technologies
